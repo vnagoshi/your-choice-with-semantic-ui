@@ -1,0 +1,58 @@
+hr {
+  margin-top: 3px;
+  margin-bottom: 14px;
+  height: 2px;
+  background-color: rgb(97, 197, 186);
+  border: none;
+}
+
+br {
+  height: 0;
+}
+
+.text{
+  color: rgb(99, 106, 109);
+  font-size: 16px;
+  margin-bottom: 19px;
+  line-height: 150%;
+}
+
+img {
+  height: 24px;
+}
+
+.bold {
+  font-size: 14px;
+  font-weight: bold;
+  margin-bottom: 6px;
+}
+
+.menu-child, .active-menu-item {
+  margin-top: 10px;
+  font-weight: 100;
+}
+
+.menu-item {
+  margin-left: 8px;
+  margin-right: 8px;
+  color: white;
+}
+.active-menu-item {
+  color: rgb(255, 239, 104);
+}
+.menu-item:hover .menu-child {
+  color: rgb(255, 239, 104);
+}
+
+h5{
+  letter-spacing: 1px;
+  font-size: 14px;
+}
+
+h3{
+  font-size: 24px;
+}
+
+.text-bottom {
+  margin-bottom: 8px;
+}
